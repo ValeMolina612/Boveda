@@ -1,4 +1,4 @@
-parckage src;
+package src;
 public class BovedaArreglo<T> implements Boveda<T> {
     private T[] elementos;
     private int tope;
